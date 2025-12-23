@@ -333,8 +333,8 @@ Stars Growth
 ## 📞 **Contact & Support**
 
 **Repository Maintainer**: Your Name  
-**Email**: your.email@example.com  
-**Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+**Email**: bharadwajjp02@gmail.com  
+
 
 ---
 
